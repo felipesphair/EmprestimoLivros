@@ -38,4 +38,29 @@ No geral, ao adotar o padrão MVC e utilizar tecnologias modernas como ASP .NET 
 
 # Telas:
 
+Home:
+
+![image](https://github.com/felipesphair/EmprestimoLivros/assets/107360437/d7c58b54-9775-4c70-94d2-1f3e85d5b06b)
+
+Emprestimos:
+
+![image](https://github.com/felipesphair/EmprestimoLivros/assets/107360437/0b2865f6-60a6-488e-b861-9ae71ef72209)
+
+Cadastro:
+
+![image](https://github.com/felipesphair/EmprestimoLivros/assets/107360437/2d09c482-8f20-443d-943d-bcc8d04b5ffd)
+
+
+Edição:
+
+![image](https://github.com/felipesphair/EmprestimoLivros/assets/107360437/4f7b4cb1-b4df-44a4-8790-e574b56b30ee)
+
+Exclusão:
+
+![image](https://github.com/felipesphair/EmprestimoLivros/assets/107360437/c8f5ca32-2e84-419c-b914-b908f0342405)
+
+Excel:
+
+![image](https://github.com/felipesphair/EmprestimoLivros/assets/107360437/3574ce66-485e-456d-ad9a-12a3d9015015)
+
 
