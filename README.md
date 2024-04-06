@@ -34,7 +34,9 @@ No geral, ao adotar o padrão MVC e utilizar tecnologias modernas como ASP .NET 
 
 7. Digite o seguinte comando para rodar as migrations e criar o banco de dados: Update-Database.
 
-8. Aperte F5 para rodar o projeto.
+8. Descompacte o zip de Materia.css no caminho dentro do projeto \wwwroot\css\Materia.zip e coloque nesta mesma pasta
+
+9. Aperte F5 para rodar o projeto.
 
 # Telas:
 
